@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Sara Mach!
+-I am interested in ecology, marine science, and data analytics
+# My research includes 
+-Spatiotemporal analysis of gray whales in north Puget Sound
+-Performing single cell RNA-seq analysis and improving statistical methodology for 
+single cell gene expression comparisons
 
 <!--
 **sara-mach/sara-mach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
